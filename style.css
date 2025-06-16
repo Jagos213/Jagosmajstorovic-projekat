@@ -54,6 +54,7 @@ a:hover {
 header {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   background: linear-gradient(to right, #0d6efd, #6610f2);
+  position:fixed;
 }
 
 footer {
